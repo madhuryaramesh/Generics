@@ -20,11 +20,22 @@ namespace Generics
             //Console.WriteLine(floatoutput);
 
             //UC3- STRING MAXIMUM
-            Console.WriteLine("FIND THE MAXIMUM String Value!");
-            string stringoutput = (string)UC3_StringMax.MaximumString("apple ", "ball", "cat");  
-            Console.WriteLine(stringoutput);
+            //Console.WriteLine("FIND THE MAXIMUM String Value!");
+            //string stringoutput = (string)UC3_StringMax.MaximumString("apple ", "ball", "cat");  
+            //Console.WriteLine(stringoutput);
 
+            //UC4andUC5
+            int[] intArray = { 112, 344, 432, 555, 678 };
+            GenericMax<int> gen = new GenericMax<int>(intArray);
+            gen.PrintMaxValue();
 
+            double[] doubleArray = { 11.2, 34.4, 4.32, 55.5, 6.78 };
+            GenericMax<double> genDouble = new GenericMax<double>(doubleArray);
+            genDouble.PrintMaxValue();
+
+            string[] stringArray = { "111", "222", "333", "55", "999" };
+            GenericMax<string> genString = new GenericMax<string>(stringArray);
+            genString.PrintMaxValue();
         }
     }
 }
