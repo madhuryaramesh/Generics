@@ -15,9 +15,15 @@ namespace Generics
             //Console.WriteLine(output);
 
             //UC2- FLOAT MAXIMUM
-            Console.WriteLine("FIND THE MAXIMUM Float NUMBER!");
-            float floatoutput = (float)UC2_FloatMax.MaximumFloatNumber(2.3, 4.5, 6.6);
-            Console.WriteLine(floatoutput);
+            //Console.WriteLine("FIND THE MAXIMUM Float NUMBER!");
+            //float floatoutput = (float)UC2_FloatMax.MaximumFloatNumber(2.3, 4.5, 6.6);
+            //Console.WriteLine(floatoutput);
+
+            //UC3- STRING MAXIMUM
+            Console.WriteLine("FIND THE MAXIMUM String Value!");
+            string stringoutput = (string)UC3_StringMax.MaximumString("apple ", "ball", "cat");  
+            Console.WriteLine(stringoutput);
+
 
         }
     }
