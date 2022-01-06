@@ -1,0 +1,14 @@
+E:\bridgelabz\.net\092- practice problem\Generics\Generics\bin\Debug\netcoreapp3.1\Generics.exe
+E:\bridgelabz\.net\092- practice problem\Generics\Generics\bin\Debug\netcoreapp3.1\Generics.deps.json
+E:\bridgelabz\.net\092- practice problem\Generics\Generics\bin\Debug\netcoreapp3.1\Generics.runtimeconfig.json
+E:\bridgelabz\.net\092- practice problem\Generics\Generics\bin\Debug\netcoreapp3.1\Generics.runtimeconfig.dev.json
+E:\bridgelabz\.net\092- practice problem\Generics\Generics\bin\Debug\netcoreapp3.1\Generics.dll
+E:\bridgelabz\.net\092- practice problem\Generics\Generics\bin\Debug\netcoreapp3.1\Generics.pdb
+E:\bridgelabz\.net\092- practice problem\Generics\Generics\obj\Debug\netcoreapp3.1\Generics.csproj.AssemblyReference.cache
+E:\bridgelabz\.net\092- practice problem\Generics\Generics\obj\Debug\netcoreapp3.1\Generics.GeneratedMSBuildEditorConfig.editorconfig
+E:\bridgelabz\.net\092- practice problem\Generics\Generics\obj\Debug\netcoreapp3.1\Generics.AssemblyInfoInputs.cache
+E:\bridgelabz\.net\092- practice problem\Generics\Generics\obj\Debug\netcoreapp3.1\Generics.AssemblyInfo.cs
+E:\bridgelabz\.net\092- practice problem\Generics\Generics\obj\Debug\netcoreapp3.1\Generics.csproj.CoreCompileInputs.cache
+E:\bridgelabz\.net\092- practice problem\Generics\Generics\obj\Debug\netcoreapp3.1\Generics.dll
+E:\bridgelabz\.net\092- practice problem\Generics\Generics\obj\Debug\netcoreapp3.1\Generics.pdb
+E:\bridgelabz\.net\092- practice problem\Generics\Generics\obj\Debug\netcoreapp3.1\Generics.genruntimeconfig.cache
