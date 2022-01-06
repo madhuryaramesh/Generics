@@ -4,9 +4,9 @@ using System.Text;
 
 namespace Generics
 {
-    class UC1_IntegerMax
+    class UC2_FloatMax
     {
-        public static int MaximumIntegerNumber(int firstValue, int secondValue, int thirdValue)
+        public static double MaximumFloatNumber(double firstValue, double secondValue, double thirdValue)
         {
             if (firstValue.CompareTo(secondValue) > 0 && firstValue.CompareTo(thirdValue) > 0)
             {
@@ -20,7 +20,7 @@ namespace Generics
             {
                 return thirdValue;
             }
-            throw new Exception("First Number, Second Number, Third Number are same");
+            throw new Exception("The First Number, Second Number, Third Number are same");
         }
     }
 }
